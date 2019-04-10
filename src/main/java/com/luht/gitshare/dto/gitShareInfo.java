@@ -3,10 +3,8 @@ package com.luht.gitshare.dto;
 /**
  * @Author: luht
  * @Email: lu_hantai@139.com
- * @Date: 2019/4/10  20:51
+ * @Date: 2019/4/10  20:57
  * @Desc:
  **/
-public class gitInfoDto {
-
-
+public class gitShareInfo {
 }
